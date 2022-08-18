@@ -1,6 +1,6 @@
-import {URL} from 'https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;400;500;600;700&display=swap'
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;400;500;600;700&display=swap');
 
-{
+*{
     margin: 0;
     padding: 0;
     box-sizing: border-box;
@@ -188,7 +188,7 @@ text-align: center;
     padding: 10px 6px;
     height: 60px;
     background: none;
-    transition: all 0.4s ease;
+    transition: all 0.5s ease;
 }
 
 .sidebar.active .profile_content .profile{
