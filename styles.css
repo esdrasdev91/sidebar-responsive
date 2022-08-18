@@ -48,6 +48,7 @@ body{
 .logo_content .logo i{
     font-size: 28px;
     font-weight: 5px;
+    margin-right: 12px;
 }
 
 .logo_content .logo .logo_name{
@@ -162,6 +163,7 @@ min-width: 50px;
 border-radius: 12px;
 line-height: 50px;
 text-align: center;
+margin-right: 10px;
 }
 
 .sidebar .links_name{
